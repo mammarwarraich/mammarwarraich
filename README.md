@@ -4,10 +4,9 @@ An undergraduate Electrical Engineering student at NUST with a **3.82 CGPA**, fo
 
 ---
 
-### 📄 Curriculum Vitae
-[![View CV](https://img.shields.io/badge/View_My_CV-PDF-red?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](https://github.com/mammarwarraich/Solar-Farm-Layout-Design/blob/main/Solar_Report.pdf)
-
-*(Click the badge above to view my formal engineering resume directly.)*
+### 🔗 Quick Links
+[![View CV](https://img.shields.io/badge/View_My_CV-PDF-red?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](ResumeAmmar.pdf)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ammar-warraich-1354ba373/)
 
 ---
 
