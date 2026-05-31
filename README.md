@@ -4,6 +4,13 @@ An undergraduate Electrical Engineering student at NUST with a **3.82 CGPA**, fo
 
 ---
 
+### 📄 Curriculum Vitae
+[![View CV](https://img.shields.io/badge/View_My_CV-PDF-red?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](https://github.com/mammarwarraich/Solar-Farm-Layout-Design/blob/main/Solar_Report.pdf)
+
+*(Click the badge above to view my formal engineering resume directly.)*
+
+---
+
 ### 🚀 Key Technical Domains & R&D Interests
 * **Quantum Communication & Cryptography:** Leveraging an advanced foundational background in nuclear physics and quantum mechanics to transition into next-generation secure communication systems, quantum key distribution (QKD), and hardware-level network safety frameworks.
 * **Embedded Software & Logic:** Low-level firmware development (C/C++, Arduino IDE) with a focus on real-time execution and algorithmic optimization.
@@ -18,6 +25,7 @@ An undergraduate Electrical Engineering student at NUST with a **3.82 CGPA**, fo
 * **BodePlotter Pro:** An automated instrumentation system utilizing efficient complex-root polynomial math solvers (Durand-Kerner & Horner's Method) to track system transfer functions in real time.
 * **Automatic Power Factor Correction Meter:** A smart grid hardware unit using low-level microcontroller logic to sense lagging inductive loads and dynamically actuate capacitor banks.
 * **Industrial Solar Farm Layout & Design:** Engineered structural electrical schematics, load calculations, and physical system layouts optimized for renewable grid distribution.
+* **PyDIPS Security Suite:** A Python-based machine learning Intrusion Detection and Prevention System (IDS/IPS) built with low-level socket sniffing and real-time packet filtering.
 
 ---
 
